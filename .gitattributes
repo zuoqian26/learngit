@@ -1,2 +1,0 @@
-逛逛平台工具v1.9_p.exe filter=lfs diff=lfs merge=lfs -text
-*.exe filter=lfs diff=lfs merge=lfs -text
